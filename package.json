@@ -1,6 +1,5 @@
 {
-  "homepage": "https://b-chandru.github.io/Ecommercesite-1/",
-  "name": "site",
+ "name": "ecommercesite",
   "version": "1.0",
   "private": true,
   "dependencies": {
